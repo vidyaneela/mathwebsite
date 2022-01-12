@@ -265,7 +265,7 @@ h1{
       
         </script>
         <div class="footer">
-           Developed by Vidya Neela.M
+           Developed by Logeshwari.P
         </div>     
 
     
@@ -274,7 +274,7 @@ h1{
 ```
 
 ## OUTPUT:
-![output](calculations/static/img/V.A.calc.jpg)
+![output](calculations/static//loki.jpg)
 
 ## Result:
 
